@@ -1,6 +1,6 @@
 Get statistics and revenues with our reporting API
 ==========================
-Our reporting API allows you to get statistics for your account, for your ad space or ad campaign.
+Our reporting API allows you to get statistics for your account, for your adspace or ad campaign.
 
 **Contents:**
 * [Step 1 - Call function](#step-1---call-function)
@@ -15,15 +15,15 @@ https://plus1-report.wapstart.ru/client_type/report_type/object_id/?x-plus1-toke
 
 **client_type:**
 
-Allows to use two different functions, publisher for publishers and advertiser for advertisers.
+Allows to use two different functions, **publisher** for publishers and **advertiser** for advertisers.
 
 **report_type:**
 
-Allows to use two different functions, common for the statistics and revenues and traffic for traffic data.
+Allows to use two different functions, common for statistics and revenues and traffic for traffic data.
 
 **object_id (optional):**
 
-ID of your ad space or ad campaign. If not specified, will show the data for all ad spaces/ad campaigns.
+ID of your adspace or ad campaign. If not specified, will show the data for all adspaces/ad campaigns.
 
 **x-plus1-token:**
 
@@ -62,7 +62,7 @@ ID of your ad space or ad campaign. If not specified, will show the data for all
 
 4 – monthly
 
-5 – without group (sum of the results for the whole period)
+5 – without group (results for all time)
 
 **reportName:**
 
