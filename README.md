@@ -11,7 +11,7 @@ Our reporting API allows you to get statistics for your account, for your adspac
 
 **Example URL:**
 
-https://plus1-report.wapstart.ru/client_type/report_type/object_id/?x-plus1-token&period=&group=&reportName=&dataType=
+https://plus1-report.wapstart.ru/client_type/report_type/object_id/?x-plus1-token=&period=&group=&reportName=&dataType=
 
 **client_type:**
 
