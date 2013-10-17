@@ -11,7 +11,7 @@ Our reporting API allows you to get statistics for your account, for your adspac
 
 **Example URL:**
 
-https://plus1-report.wapstart.ru/client_type/report_type/object_id/?x-plus1-token=&period=&group=&reportName=&dataType=
+https://plus1-report.wapstart.ru/client_type/report_type/object_id/sub_id/?x-plus1-token=&period=&group=&reportName=&dataType=
 
 **client_type:**
 
@@ -24,6 +24,10 @@ Allows to use two different functions, common for statistics and revenues and tr
 **object_id (optional):**
 
 ID of your adspace or ad campaign. If not specified, will show the data for all adspaces/ad campaigns.
+
+**sub_id (optional):**
+
+Banner id for ad campaign. Advertiser only.
 
 **x-plus1-token:**
 
