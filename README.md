@@ -27,7 +27,7 @@ ID of your adspace or ad campaign. If not specified, will show the data for all 
 
 **sub_id (optional):**
 
-Banner id for ad campaign or adspace section for adspace.
+Banner id for ad campaign or subspace for adspace.
 
 **x-plus1-token:**
 
